@@ -1,13 +1,13 @@
 body {
-  font-family: sans-serif;
-  color: #172b4d;
-  background-color: #0279bf;
+  font-family: 'Macondo', cursive;
+  color: #ffffff;
+  background-color: #000000;
   display: flex;
   align-items: start;
 }
 
 div {
-  border-radius: 3px;
+  border-radius: 20px;
 }
 
 #main {
@@ -40,7 +40,7 @@ div {
 }
 
 .card {
-  background: white;
+  background: aqua;
   border-bottom: 1px solid #aaa;
 }
 
